@@ -14,8 +14,6 @@ The objective of the project is Predicting the probabilities for different click
 
 ### Dataset
 The dataset was obtained from here https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/data.
-### Dataset Description
-For this competition, your objective is to predict whether a user will download an app after clicking a mobile app advertisement.
 
 ### File descriptions
 train.csv - the training set
@@ -48,11 +46,11 @@ is_attributed: not included
 
 
 ## 👩‍💻 Libraries used
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=purple)
+![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=yellow)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-F7931E.svg?style=for-the-badge&logo=Matplotlib&logoColor=orange)
-![os](https://img.shields.io/badge/os-F7931E.svg?style=for-the-badge&logo=os&logoColor=white)
-![seaborn](https://img.shields.io/badge/Seaborn-2C2D72?style=for-the-badge&logo=Seaborn&logoColor=white)
+![os](https://img.shields.io/badge/os-F7931E.svg?style=for-the-badge&logo=os&logoColor=green)
+![seaborn](https://img.shields.io/badge/Seaborn-2C2D72?style=for-the-badge&logo=Seaborn&logoColor=blue)
 ![Xgboost](https://img.shields.io/badge/Xgboost-2C2D72?style=for-the-badge&logo=Xgboost&logoColor=blue)
 
 
