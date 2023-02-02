@@ -9,6 +9,7 @@ TalkingData, China’s largest independent big data service platform, covers ove
 
 
 The main objective of the project is:
+
 Predicting the probabilities for different click_id's in the test set.** Detecting fraudulent click traffic for mobile app ads.
 ### Task performed
 - Uploading the test, train datasets
