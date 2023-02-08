@@ -97,5 +97,5 @@ Important models oralgorithms were used in this project:
 
 ## 🤝 Support
 Contributions, issues, and feature requests are welcome!
-Give a STAR if you like this project! and FOLLOW do SUPPORT Friends.
+Give a STAR if you like this project! and FOLLOW do SUPPORT Friends...
 
