@@ -10,6 +10,8 @@ TalkingData, China’s largest independent big data service platform, covers ove
 
 ### The main objective of the project is:
 
+The project aims to address a significant issue faced by companies that advertise online, which is clicked fraud. By analyzing a massive dataset of clicks, the project aims to develop an algorithm that can predict whether a user will download an app after clicking a mobile app ad. This will help companies to detect potentially fraudulent click traffic and prevent wasting money on misleading click data. The project is important because it will help companies to protect themselves against click fraud, which can have a significant impact on their ad spending and ultimately their bottom line.
+
 Predicting the probabilities for different click_id's in the test set.** Detecting fraudulent click traffic for mobile app ads.
 
 ### Task performed
@@ -19,6 +21,17 @@ Predicting the probabilities for different click_id's in the test set.** Detecti
 - Feature extractions
 - Model selection and implementing the best model
 - Predicting and visualing
+
+
+- 1. Data preprocessing: Clean, preprocess and transform the data to remove outliers, fill in missing values, and convert categorical variables to numeric ones.
+
+- 2. Feature engineering: Create new features by combining or transforming existing features to improve the performance of the model.
+
+- 3. Model training: Select a suitable machine learning algorithm and train the model on the preprocessed and engineered data.
+
+- 4. Model evaluation: Evaluate the performance of the model using metrics such as accuracy, precision, recall, and F1-score.
+
+- 5. Model tuning: Fine-tune the hyperparameters of the model to optimize its performance.
 
 
 ### Dataset
